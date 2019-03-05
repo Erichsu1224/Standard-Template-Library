@@ -1,0 +1,163 @@
+Compute
+
+alternative
+	Total:
+		Character Table Crearion:155.215sec
+		Input: 3.98749sec
+		Sorting:6.74567sec
+		Output:87.8999sec
+		Total time: 253.849sec
+	1000-100
+		Input: 0.015421sec
+		Character Table Crearion: 0.000614sec
+		Sorting:0.000816sec
+		Output:0.010715sec
+		Total time: 0.027712sec
+	5000-100
+		Input: 0.070808sec
+		Character Table Crearion: 0.002266sec
+		Sorting:0.00353sec
+		Output:0.044052sec
+		Total time: 0.120856sec
+	10000-100
+		Input: 0.145015sec
+		Character Table Crearion: 0.004396sec
+		Sorting:0.008104sec
+		Output:0.086271sec
+		Total time: 0.244008sec
+	50000-100
+		Input: 0.683097sec
+		Character Table Crearion: 0.021305sec
+		Sorting:0.052063sec
+		Output:0.442337sec
+		Total time: 1.19898sec
+	100000-100
+		Input: 1.32843sec
+		Character Table Crearion: 0.04026sec
+		Sorting:0.114646sec
+		Output:0.861437sec
+		Total time: 2.34499sec
+	500000-100
+		Input: 6.7577sec
+		Character Table Crearion: 0.207233sec
+		Sorting:0.751683sec
+		Output:4.48836sec
+		Total time: 12.2052sec
+	1000-500
+		Input: 0.065097sec
+		Character Table Crearion: 0.001955sec
+		Sorting:0.00159sec
+		Output:0.041181sec
+		Total time: 0.110065sec
+	5000-500
+		Input: 0.331098sec
+		Character Table Crearion: 0.009006sec
+		Sorting:0.008147sec
+		Output:0.208566sec
+		Total time: 0.556946sec
+	10000-500
+
+	50000-500
+
+	100000-500
+
+	500000-500
+		
+	1000-1000
+
+	5000-1000
+
+	10000-1000
+
+	50000-1000
+
+	100000-1000
+
+	500000-1000
+		
+
+Simple
+	Total
+		Input took 78778694 clicks (78.7787 seconds).
+		Sorting took 5426157 clicks (5.42616 seconds).
+		Output took 2335824 clicks (2.33582 seconds).
+		Total time: 86541068 clicks (86.5411 seconds).
+	1000-100
+
+	5000-100
+
+	10000-100
+
+	50000-100
+
+	100000-100
+
+	500000-100
+
+	1000-500
+
+	5000-500
+
+	10000-500
+
+	50000-500
+
+	100000-500
+
+	500000-500
+		
+	1000-1000
+
+	5000-1000
+
+	10000-1000
+
+	50000-1000
+
+	100000-1000
+
+	500000-1000
+
+Iterator
+	Total
+		Input: 72.6869sec
+		Sorting: 4.96761sec
+		Output: 2.35136sec
+		Total time: 80.006 sec
+	1000-100
+
+	5000-100
+
+	10000-100
+
+	50000-100
+
+	100000-100
+
+	500000-100
+
+	1000-500
+
+	5000-500
+
+	10000-500
+
+	50000-500
+
+	100000-500
+
+	500000-500
+		
+	1000-1000
+
+	5000-1000
+
+	10000-1000
+
+	50000-1000
+
+	100000-1000
+
+	500000-1000
+
+
